@@ -16,3 +16,5 @@ non primitive
 Arrays
 classes
 
+Link to Data types notes : 
+w3schools : https://www.w3schools.com/java/java_data_types.asp
